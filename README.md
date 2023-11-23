@@ -1,0 +1,2 @@
+# Capstone_Module3_CaliforniaHousePricing_Regression
+Prediksi harga rumah pada dataset California House Pricing
